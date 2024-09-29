@@ -17,7 +17,7 @@ function Contact() {
           <div className="my-5">Who am i?</div>
           <div className="grid lg:grid-cols-2 grid-cols-1">
             <div className="mt-10">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+              ipsum dolor sit amet consectetur adipisicing elit.
               Accusamus at iure, dolorem rerum ad eaque quisquam non obcaecati
               modi iusto repudiandae aliquid? Sed, iste. Assumenda?
             </div>
