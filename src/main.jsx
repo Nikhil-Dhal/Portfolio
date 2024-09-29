@@ -11,15 +11,15 @@ import Contact from './Contact';
 import Aboutme from './Aboutme';
 const router = createBrowserRouter([
   {
-    path: "/portfolio.io/",
+    path: "/portfolio/",
     element: <App />,
   },
   {
-    path: "/portfolio.io/contact/",
+    path: "/portfolio/contact/",
     element: <Contact />,
   },
   {
-    path: "/portfolio.io/about/",
+    path: "/portfolio/about/",
     element: <Aboutme />,
   },
 ]);
